@@ -20,7 +20,6 @@ BEGIN
 	CLOSE cur1;
 	
 END;
-GO;
 
 CREATE PROCEDURE Get_ALL_Order()
 BEGIN
